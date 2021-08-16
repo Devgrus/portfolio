@@ -1,0 +1,19 @@
+.contactTitle-container {
+  background-image: url('./../../assets/bg_main.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: black;
+  min-height: 40vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & .text-container {
+    height: 100%;
+  }
+  & h1 {
+    margin: 0;
+    font-size: 5rem;
+  }
+}
