@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fa4b5e2a.chunk.css",
-    "main.js": "/portfolio/static/js/main.a2c18f2c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a2c18f2c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c8806257.chunk.css",
+    "main.js": "/portfolio/static/js/main.b907b9de.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b907b9de.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
     "static/js/2.ebff7354.chunk.js": "/portfolio/static/js/2.ebff7354.chunk.js",
     "static/js/2.ebff7354.chunk.js.map": "/portfolio/static/js/2.ebff7354.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.fa4b5e2a.chunk.css.map": "/portfolio/static/css/main.fa4b5e2a.chunk.css.map",
+    "static/css/main.c8806257.chunk.css.map": "/portfolio/static/css/main.c8806257.chunk.css.map",
     "static/js/2.ebff7354.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ebff7354.chunk.js.LICENSE.txt",
     "static/media/contact-title.styles.scss": "/portfolio/static/media/bg_main.b83e1ec1.png",
     "static/media/cowfinal.0d8915d3.svg": "/portfolio/static/media/cowfinal.0d8915d3.svg",
@@ -16,12 +16,14 @@
     "static/media/cw.007d0f5a.jpg": "/portfolio/static/media/cw.007d0f5a.jpg",
     "static/media/html-5.10080bf9.svg": "/portfolio/static/media/html-5.10080bf9.svg",
     "static/media/javascript.1b2759f5.svg": "/portfolio/static/media/javascript.1b2759f5.svg",
+    "static/media/linkedin.3d0b48ef.svg": "/portfolio/static/media/linkedin.3d0b48ef.svg",
     "static/media/logo-de-printemps.d1a2f6cf.svg": "/portfolio/static/media/logo-de-printemps.d1a2f6cf.svg",
     "static/media/logo-java-coffee-cup.a6e4d40e.svg": "/portfolio/static/media/logo-java-coffee-cup.a6e4d40e.svg",
     "static/media/logo_army.305dfa58.jpg": "/portfolio/static/media/logo_army.305dfa58.jpg",
     "static/media/logo_ias.c38b08d7.png": "/portfolio/static/media/logo_ias.c38b08d7.png",
     "static/media/logo_insta.820ed287.jpg": "/portfolio/static/media/logo_insta.820ed287.jpg",
     "static/media/logo_nestjs.8cc42ce9.svg": "/portfolio/static/media/logo_nestjs.8cc42ce9.svg",
+    "static/media/mail.644148b4.svg": "/portfolio/static/media/mail.644148b4.svg",
     "static/media/node-js.57e7ded1.svg": "/portfolio/static/media/node-js.57e7ded1.svg",
     "static/media/react-native.40a1bcb0.svg": "/portfolio/static/media/react-native.40a1bcb0.svg",
     "static/media/vue-js.2cc555fe.svg": "/portfolio/static/media/vue-js.2cc555fe.svg"
@@ -29,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.bcd5af5a.js",
     "static/js/2.ebff7354.chunk.js",
-    "static/css/main.fa4b5e2a.chunk.css",
-    "static/js/main.a2c18f2c.chunk.js"
+    "static/css/main.c8806257.chunk.css",
+    "static/js/main.b907b9de.chunk.js"
   ]
 }
