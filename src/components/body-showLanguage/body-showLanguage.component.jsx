@@ -36,12 +36,6 @@ const ShowLanguage = () => {
             </div>
             <p>React</p>
           </div>
-          <div className="lang-fw-lib">
-            <div className="image-container">
-              <img src={imgVue} alt="vue" />
-            </div>
-            <p>Vue</p>
-          </div>
         </div>
         <div className="languages">
           <div className="lang-fw-lib">
@@ -61,14 +55,12 @@ const ShowLanguage = () => {
           <div className="lang-fw-lib">
             <div className="image-container">
               <img src={imgJava} alt="java" />
-              <div className="soon">soon</div>
             </div>
             <p>Java</p>
           </div>
           <div className="lang-fw-lib">
             <div className="image-container">
               <img src={imgSpring} alt="spring" />
-              <div className="soon">soon</div>
             </div>
             <p>Spring</p>
           </div>
